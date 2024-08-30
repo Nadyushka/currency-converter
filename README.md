@@ -2,7 +2,7 @@
 
 ### Запуск проекта:
 
-#### 1. Скачать проект с помощью команды - git clone https://github.com/Nadyushka/currency-exchange.git
+#### 1. Скачать проект с помощью команды - git clone https://github.com/Nadyushka/currency-converter.git
 
 #### 2. Установите зависимости: npm install
 
